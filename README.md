@@ -1,4 +1,7 @@
-# Control-of-Relay-Using-IoT-controller
+## NAME : ADITHYA V
+## REG NO : 212223110001
+
+# EX NO 2 :Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
@@ -50,11 +53,19 @@ void loop() {
   delay(1000);
 }
 ```
+#
+#
+#
+
 ## CIRCUIT DIAGRAM:
 ![WhatsApp Image 2024-09-10 at 09 54 07_0197c336](https://github.com/user-attachments/assets/aa5fa89b-326e-4d9a-a46c-ffaf69432039)
+#
+#
 
 ## OUTPUT:
+# ON
 ![WhatsApp Image 2024-09-10 at 09 53 32_510dbd1a](https://github.com/user-attachments/assets/14042cd7-ac51-47be-b43f-ef74d8503243)
+# OFF
 ![WhatsApp Image 2024-09-10 at 09 53 25_50b8683e](https://github.com/user-attachments/assets/e6213518-f7ca-495f-a719-c618076e51d2)
 
 ## RESULT:
